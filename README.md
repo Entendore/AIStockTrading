@@ -1,0 +1,3 @@
+# AIStockTrading
+
+Project repository.
